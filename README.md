@@ -26,9 +26,13 @@ Just add `webber-gmap-location` CssClass to your input and enjoy.
 
 No matter your inputType is `text` or `hidden`.
 
+Sample1: `<input type="text" name="gpsLocation" class="webber-gmap-location" />`
+
+Sample2: `<input type="hidden" name="gpsLocation" class="webber-gmap-location" />`
+
 ## Demo
 
-[Demo Website](demo.adaksys.com/GoogleMapSelector)
+[Demo Website](http://demo.adaksys.com/GoogleMapSelector)
 
 ## License
 
