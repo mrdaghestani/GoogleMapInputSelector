@@ -7,14 +7,22 @@ This project helps you to place an input to your html form and get a *Place Loca
 Add Maps from GoogleApi scripts and add jquery and webber-gmap-location.js to your _layout file.
 Like This:
 ```
-<script src="http://maps.googleapis.com/maps/api/js"></script>
+<script src="//maps.googleapis.com/maps/api/js"></script>
 <script src="~/Scripts/jquery-1.10.2.min.js"></script>
 <script src="~/Scripts/webber-gmap-location.js"></script>
 ```
+or Use our cdn:
+```
+<script src="//maps.googleapis.com/maps/api/js"></script>
+<script src="//cdn.adaksys.com/jquery-1.10.2.min.js"></script>
+<script src="//cdn.adaksys.com/webber-gmap-location.js"></script>
+```
+
 
 ## Usage
 
-TODO: Write usage instructions
+Just add `webber-gmap-location` CssClass to your input and enjoy.
+No matter your inputType is `text` or `hidden`.
 
 ## Contributing
 
