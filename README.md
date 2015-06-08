@@ -1,6 +1,6 @@
 # GoogleMap Input Selector
 
-This project helps you to place an input to your html form and get a *Place Location (Latitude & Longitude)* from user to save in your database.
+This project helps you to place an input to your html form and get a **Place Location (Latitude & Longitude)** from user to save in your database.
 
 ## Installation
 
