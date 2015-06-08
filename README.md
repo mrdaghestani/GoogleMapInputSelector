@@ -10,13 +10,13 @@ Like This:
 ```
 <script src="//maps.googleapis.com/maps/api/js"></script>
 <script src="~/Scripts/jquery-1.10.2.min.js"></script>
-<script src="~/Scripts/webber-gmap-location.js"></script>
+<script src="~/Scripts/webber-gmap-location.min.js"></script>
 ```
 or Use our cdn:
 ```
 <script src="//maps.googleapis.com/maps/api/js"></script>
 <script src="//cdn.adaksys.com/jquery-1.10.2.min.js"></script>
-<script src="//cdn.adaksys.com/webber-gmap-location.js"></script>
+<script src="//cdn.adaksys.com/webber-gmap-location.min.js"></script>
 ```
 
 
