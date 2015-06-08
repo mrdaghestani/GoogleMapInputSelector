@@ -1,6 +1,6 @@
-# ${1:Project Name}
+# GoogleMap Input Selector
 
-TODO: Write a project description
+This project helps you to place an input to your html form and get a Place Location (Latitude & Longitude) from user to save in your database.
 
 ## Installation
 
