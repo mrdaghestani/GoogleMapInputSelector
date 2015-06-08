@@ -1,10 +1,14 @@
 # GoogleMap Input Selector
 
-This project helps you to place an input to your html form and get a Place Location (Latitude & Longitude) from user to save in your database.
+This project helps you to place an input to your html form and get a *Place Location (Latitude & Longitude)* from user to save in your database.
 
 ## Installation
 
-TODO: Describe the installation process
+Add Maps from GoogleApi scripts and add jquery and webber-gmap-location.js to your _layout file.
+Like This:
+`<script src="http://maps.googleapis.com/maps/api/js"></script>`
+`<script src="~/Scripts/jquery-1.10.2.min.js"></script>`
+`<script src="~/Scripts/webber-gmap-location.js"></script>`
 
 ## Usage
 
