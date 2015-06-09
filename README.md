@@ -43,3 +43,5 @@ To customize map, simply add data attribute to your input:
 ## License
 
 Released under the MIT license.
+
+Created by MohammadReza Daghestani, [ADAK SYS Co.](http://adaksys.com/)
