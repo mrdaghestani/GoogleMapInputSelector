@@ -10,13 +10,13 @@ Like This:
 ```
 <script src="//maps.googleapis.com/maps/api/js"></script>
 <script src="~/Scripts/jquery-1.10.2.min.js"></script>
-<script src="~/Scripts/webber-gmap-location.min.js"></script>
+<script src="~/Scripts/webber-gmap-location.js"></script>
 ```
-or Use our cdn:
+or Use our bundle & cdn:
 ```
 <script src="//maps.googleapis.com/maps/api/js"></script>
 <script src="//cdn.adaksys.com/jquery-1.10.2.min.js"></script>
-<script src="//cdn.adaksys.com/webber-gmap-location.min.js"></script>
+<script src="//demo.adaksys.com/GoogleMapSelector/Scripts/webber-gmap-location"></script>
 ```
 
 
@@ -29,6 +29,12 @@ No matter your inputType is `text` or `hidden`.
 Sample1: `<input type="text" name="gpsLocation" class="webber-gmap-location" />`
 
 Sample2: `<input type="hidden" name="gpsLocation" class="webber-gmap-location" />`
+
+## Options
+
+To customize map, simply add data attribute to your input:
+
+`<input type="text" name="gpsLocation" class="webber-gmap-location" data-width="300px" data-height="300px" data-zoom="5" />`
 
 ## Demo
 
